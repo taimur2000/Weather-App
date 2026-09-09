@@ -7,8 +7,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.TimeZone;
 
-// Created by Taha Siddiqui
-// 2020-03-27
+// Created 2020-03-27
 public class Current {
     private String locationLabel;
     private String icon;
