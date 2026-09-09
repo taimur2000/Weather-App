@@ -8,8 +8,7 @@ import android.os.Bundle;
 
 import com.example.stormy.R;
 
-// Created by Taha Siddiqui
-// 2020-03-26
+// Created 2020-03-26
 public class AlertDialogFragment extends DialogFragment {
 //used to alert users for errors
 
