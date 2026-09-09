@@ -15,8 +15,7 @@ import com.example.stormy.weather.Hour;
 
 import java.util.List;
 
-// Created by Taha Siddiqui
-// 2020-04-05
+// Created by Taha Siddiqui 2020-04-05
 public class HourlyAddapter extends RecyclerView.Adapter<HourlyAddapter.ViewHolder> {
 
     private List<Hour> hours;
