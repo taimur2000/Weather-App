@@ -5,8 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
-// Created by Taha Siddiqui
-// 2020-04-04
+// Created by 2020-04-04
 public class Hour implements Serializable {
     private long time;
     private String summary;
