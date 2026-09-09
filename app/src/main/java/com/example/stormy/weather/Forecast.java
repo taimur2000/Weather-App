@@ -2,8 +2,8 @@ package com.example.stormy.weather;
 
 import com.example.stormy.R;
 
-// Created by Taha Siddiqui
-// 2020-04-04
+
+// Created 2020-04-04
 public class Forecast {
     private Current current;
     private Hour[] hourlyForecast;
